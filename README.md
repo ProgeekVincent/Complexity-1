@@ -1,5 +1,5 @@
 # Complexity-1
-This was the college assignment to test the knowledge of algorithm analysis and the implementation of algorithms. In this problem set, I was required to search for two integers that are the same but differ in arithmetic signs in two text files with different sizes; for example, I had to find integers like 2 and -2, 6 and -6. This problem set has two algorithmic implementations named algorithm1 and algorithm2.
+This was the college assignment to test the knowledge of algorithm analysis and the implementation of algorithms in Java. In this problem set, I was required to search for two integers that are the same but differ in arithmetic signs in two text files with different sizes; for example, I had to find integers like 2 and -2, 6 and -6. This problem set has two algorithmic implementations named algorithm1 and algorithm2.
 
 # algorithm1
 
